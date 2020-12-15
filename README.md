@@ -1,5 +1,10 @@
-### Hi there 👋
-
+- :zap: I love math, programming, data science, and books
+- 🌱 I’m addicted to learning and growing every day
+- :earth_america: I am currently sharing a little bit of my knowledge to the world through my blogs
+- 📫 How to find me: 
+  - :bulb: [Medium articles](https://medium.com/@crashbit)
+  - :office: [LinkedIn](https://www.linkedin.com/in/germansantos//)
+  - 
 <!--
 **crashbit/crashbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
