@@ -9,7 +9,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crashbit)](https://github.com/anuraghazra/github-readme-stats)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@crashbit/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@crashbit/0" alt="Recent Article 0">
 <!--
 **crashbit/crashbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
